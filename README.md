@@ -22,7 +22,7 @@
 
 <!-- Title -->
 <h1 align="center">
-  Plant Disease Classification using CNN
+  Plant Disease Classification using CNNs
 </h1>
 
 <!-- Subtitle -->
