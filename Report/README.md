@@ -1,35 +1,3 @@
-<!-- Meta-Badges -->
-</p>
-
-<p align="center">
-    <img alt="Size" src="https://img.shields.io/github/repo-size/InPhyT/NeuralNetworksProject">
-  </a>
-  <img alt="Forks" src="https://img.shields.io/github/forks/InPhyT/NeuralNetworksProject">
-  </a>
-  <img alt="Stars" src="https://img.shields.io/github/stars/InPhyT/NeuralNetworksProject">
-  </a>
-  <img alt="Languages" src="https://img.shields.io/github/languages/count/InPhyT/NeuralNetworksProject">
-  </a>
-  <a href="https://github.com/InPhyT/NeuralNetworksProject/graphs/contributors">
-    <img alt="Contributors" src="https://img.shields.io/github/contributors/InPhyT/NeuralNetworksProject">
-  </a>
-  <img alt="Licence" src="https://img.shields.io/github/license/InPhyT/NeuralNetworksProject">
-  </a>
-  <img alt="Twitter" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FInPhyT%2FNeuralNetworksProject"
-  </a>
-  
-</p>
-
-<!-- Title -->
-<h1 align="center">
-  Neural Networks Project
-</h1>
-
-<!-- Subtitle -->
-<h3 align="center">
-  Dataset Analysis and CNN Models Optimization for Plant Disease Classification
-</h3>
-
 <!-- Badges -->
 </p>
 
@@ -43,16 +11,18 @@
   <a href="https://colab.research.google.com/github/InPhyT/NeuralNetworksProject/blob/master">
     <img alt="Colab" src="https://colab.research.google.com/assets/colab-badge.svg">
   </a>
-  
+
+<!-- Title -->
+<h1 align="center">
+  Dataset Analysis and CNN Models Optimization for Plant Disease Classification 
+</h1>
+
+<!-- Subtitle -->
+<h3 align="center">
+  Recognition of Foliar Diseases in Apple Trees
+</h3>
+
 </p>
-
-## How to Explore this Work
-
-* Read the report in [PDF](https://inphyt.github.io/NeuralNetworksProject/Report/report.pdf) or [HTML](https://inphyt.github.io/NeuralNetworksProject/Report/report.html) format.
-* Read the code in the [Jupyter notebook](https://nbviewer.jupyter.org/github/InPhyT/NeuralNetworksProject/blob/master/Notebooks/notebook.ipynb).
-* Run the code in the [Kaggle notebook](https://www.kaggle.com/inphyt2020/neuralnetworksproject).
-
-## Extended Abstract
 
 ### Problem 
 
@@ -86,6 +56,12 @@ Both the training and the testing [datasets](https://www.kaggle.com/c/plant-path
 
 * **ROC = 0.972** applying the pre-trained Keras model [`DenseNet121`](https://keras.io/api/applications/densenet/#densenet121-function).
 * **ROC = 0.937** applying a CNN which has been defined and trained from scratch. 
+
+### Online Contents
+
+* Read the report in [PDF](https://inphyt.github.io/NeuralNetworksProject/Report/report.pdf) or [HTML](https://inphyt.github.io/NeuralNetworksProject/Report/report.html) format.
+* Read the code in the [Jupyter notebook](https://nbviewer.jupyter.org/github/InPhyT/NeuralNetworksProject/blob/master/Notebooks/notebook.ipynb).
+* Run the code in the [Kaggle notebook](https://www.kaggle.com/inphyt2020/neuralnetworksproject).
 
 ### References 
 
