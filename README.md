@@ -2,20 +2,20 @@
 </p>
 
 <p align="center">
-    <img alt="Size" src="https://img.shields.io/github/repo-size/InPhyT/NeuralNetworksProject">
+    <img alt="Size" src="https://img.shields.io/github/repo-size/InPhyT/Plant_Disease_Classification_CNN">
   </a>
-  <img alt="Forks" src="https://img.shields.io/github/forks/InPhyT/NeuralNetworksProject">
+  <img alt="Forks" src="https://img.shields.io/github/forks/InPhyT/Plant_Disease_Classification_CNN">
   </a>
-  <img alt="Stars" src="https://img.shields.io/github/stars/InPhyT/NeuralNetworksProject">
+  <img alt="Stars" src="https://img.shields.io/github/stars/InPhyT/Plant_Disease_Classification_CNN">
   </a>
-  <img alt="Languages" src="https://img.shields.io/github/languages/count/InPhyT/NeuralNetworksProject">
+  <img alt="Languages" src="https://img.shields.io/github/languages/count/InPhyT/Plant_Disease_Classification_CNN">
   </a>
-  <a href="https://github.com/InPhyT/NeuralNetworksProject/graphs/contributors">
-    <img alt="Contributors" src="https://img.shields.io/github/contributors/InPhyT/NeuralNetworksProject">
+  <a href="https://github.com/InPhyT/Plant_Disease_Classification_CNN/graphs/contributors">
+    <img alt="Contributors" src="https://img.shields.io/github/contributors/InPhyT/Plant_Disease_Classification_CNN">
   </a>
-  <img alt="Licence" src="https://img.shields.io/github/license/InPhyT/NeuralNetworksProject">
+  <img alt="Licence" src="https://img.shields.io/github/license/InPhyT/Plant_Disease_Classification_CNN">
   </a>
-  <img alt="Twitter" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FInPhyT%2FNeuralNetworksProject"
+  <img alt="Twitter" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FInPhyT%2FPlant_Disease_Classification_CNN"
   </a>
   
 </p>
@@ -37,10 +37,10 @@
   <a href="https://www.kaggle.com/inphyt2020/neuralnetworksproject">
     <img alt="Kaggle" src="https://kaggle.com/static/images/open-in-kaggle.svg">
   </a>
-  <a href="https://nbviewer.jupyter.org/github/InPhyT/NeuralNetworksProject/">
+  <a href="https://nbviewer.jupyter.org/github/InPhyT/Plant_Disease_Classification_CNN/">
     <img alt="nbviewer" src="https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg">
   </a>
-  <a href="https://colab.research.google.com/github/InPhyT/NeuralNetworksProject/blob/master">
+  <a href="https://colab.research.google.com/github/InPhyT/Plant_Disease_Classification_CNN/blob/master">
     <img alt="Colab" src="https://colab.research.google.com/assets/colab-badge.svg">
   </a>
   
@@ -48,8 +48,8 @@
 
 ## How to Explore this Work
 
-* Read the report in [PDF](https://inphyt.github.io/NeuralNetworksProject/Report/report.pdf) or [HTML](https://inphyt.github.io/NeuralNetworksProject/Report/report.html) format.
-* Read the code in the [Jupyter notebook](https://nbviewer.jupyter.org/github/InPhyT/NeuralNetworksProject/blob/master/Notebooks/notebook.ipynb).
+* Read the report in [PDF](https://inphyt.github.io/Plant_Disease_Classification_CNN/Report/report.pdf) or [HTML](https://inphyt.github.io/Plant_Disease_Classification_CNN/Report/report.html) format.
+* Read the code in the [Jupyter notebook](https://nbviewer.jupyter.org/github/InPhyT/Plant_Disease_Classification_CNN/blob/master/Notebooks/notebook.ipynb).
 * Run the code in the [Kaggle notebook](https://www.kaggle.com/inphyt2020/neuralnetworksproject).
 
 ## Extended Abstract
