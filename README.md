@@ -22,7 +22,7 @@
 
 <!-- Title -->
 <h1 align="center">
-  Neural Networks Project
+  Plant Disease Classification using CNN
 </h1>
 
 <!-- Subtitle -->
